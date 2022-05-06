@@ -2,13 +2,13 @@
 # What can data tell us about city employees' payroll
 
 ## Goal
-To analyse city's payroll database and see who is making the most in overtime, which agencies are spending the most in overtime, who are the highest paid employees overall.
+To analyse city's payroll database and see who is making the most in overtime, which agencies are spending the most in overtime and ho are the highest paid employees overall.
 
 ## Data source
 [Citywide Payroll Data (Fiscal Year)](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/data) from 2017, 2018, 2019, 2020 and 2021
 
 ## Analyses
-Check [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/Analyzing%20payroll.ipynb) for the analyses.\ The notebook has comments to guide you through the process
+Check [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/check-in-2.ipynb) for the analyses. The notebook has comments to guide you through the process.
 
 ## Initial findings
 
