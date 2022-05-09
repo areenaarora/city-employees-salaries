@@ -1,4 +1,4 @@
-*This project is a work in progress and is only in its initial stages*
+*This project is a work in progress*
 # What can data tell us about city employees' payroll
 
 ## Goal
