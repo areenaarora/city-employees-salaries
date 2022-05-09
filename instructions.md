@@ -8,4 +8,4 @@
 
 ### 4. To install Jupyter Notebook, follow the instructions [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html).
 
-### 5. Now that you have Python + Jupyter Notebook + *some* familiarity with code, let's dive in! Run the notebook titled [Reproducable analyses](https://github.com/areenaarora). The notebook has various comments spread througout that should help. If you have questions, need additional help, please [reach out to me!](https://twitter.com/AreenaArora)
+### 5. Now that you have Python + Jupyter Notebook + *some* familiarity with code, let's dive in! Run the notebook titled [Reproducable analyses](https://github.com/areenaarora/city-employees-salaries/blob/main/Reproducable%20analyses.ipynb). The notebook has various comments spread througout that should help. If you have questions, need additional help, please [reach out to me!](https://twitter.com/AreenaArora)

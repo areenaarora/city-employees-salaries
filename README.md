@@ -8,7 +8,10 @@ To analyse city's payroll database and see who is making the most in overtime, w
 [Citywide Payroll Data (Fiscal Year)](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/data) from 2017, 2018, 2019, 2020 and 2021
 
 ## Analyses
-Check [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/check-in-2.ipynb) for the analyses. The notebook has comments to guide you through the process.
+Check [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/check-in-2.ipynb) for the analyses. The notebook has comments (work in progress) to guide you through the process.
+
+## For fellow journos: 
+If you'd like to reproduce the analysis for your city's agencies, check the [instructions doc](https://github.com/areenaarora/city-employees-salaries/blob/main/instructions.md) and [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/Reproducable%20analyses.ipynb)
 
 ## Initial findings
 
