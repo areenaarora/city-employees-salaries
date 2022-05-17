@@ -29,7 +29,7 @@ If you'd like to reproduce the analysis for your city's agencies, check the [ins
 5. What all is included in "other pay?"
 
 ## Findings from iinitial interviews
-From talking to watchdog organizations, I learned that there's an incentive for employees, especially uniformed officers, to clock in extra overtime hours as they get closer to retirement. So, we went back to our data and see if numbers reflected the same.
+From talking to watchdog organizations, I learned that there's an incentive for employees, especially uniformed officers, to clock in extra overtime hours as they get closer to retirement. So, we went back to our data and see if numbers reflected the same. Which, the data did! The final analyses can be found in this notebook
 
 ## Min story:
 1. Data found these interesting facts.
