@@ -8,7 +8,7 @@ To analyse city's payroll database and see who is making the most in overtime, w
 [Citywide Payroll Data (Fiscal Year)](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/data) from 2017, 2018, 2019, 2020 and 2021
 
 ## Analyses
-Check [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/check-in-2.ipynb) for the analyses. The notebook has comments (work in progress) to guide you through the process.
+Check [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/Final%20analyses%20notebook.ipynb) for the analyses. The notebook has comments to guide you through the process.
 
 ## For fellow journos: 
 If you'd like to reproduce the analysis for your city's agencies, check the [instructions doc](https://github.com/areenaarora/city-employees-salaries/blob/main/instructions.md) and [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/Reproducable%20analyses.ipynb)
@@ -29,10 +29,4 @@ If you'd like to reproduce the analysis for your city's agencies, check the [ins
 5. What all is included in "other pay?"
 
 ## Findings from iinitial interviews
-From talking to watchdog organizations, I learned that there's an incentive for employees, especially uniformed officers, to clock in extra overtime hours as they get closer to retirement. So, we went back to our data and see if numbers reflected the same. Which, the data did! The final analyses can be found in this notebook
-
-## Min story:
-1. Data found these interesting facts.
-
-## Max story:
-1. The reporting led to saving taxpayers' money and winning a Pulitzer 🏆🏆🏆
+From talking to watchdog organizations, I learned that there's an incentive for employees, especially uniformed officers, to clock in extra overtime hours as they get closer to retirement. So, we went back to our data and see if numbers reflected the same. Which, the data did! The final analyses can be found in [this notebook](https://github.com/areenaarora/city-employees-salaries/blob/main/Final%20analyses%20notebook.ipynb)
